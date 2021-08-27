@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pramod-Kumar
 - 👀 I’m interested in Artificical Intelligence Technologies
-- 💞️ Currently looking for an Internship programm for a period of 6 month starting from Sep,Oct 2021
 
 
 #### Data Science and Artificial Intelligence : <br />
