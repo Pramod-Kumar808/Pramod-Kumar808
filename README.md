@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pramod-Kumar
+# 👋 Hi, I’m Pramod-Kumar
 - 👀 I’m interested in Artificical Intelligence Technologies
 
 
