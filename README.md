@@ -1,9 +1,15 @@
 - 👋 Hi, I’m Pramod-Kumar
-- 👀 I’m interested in Artificical Intelligence Technology and Robotics
-- 🌱 I’m currently learning Artificial tatics in Machine learning, Deep learning and Natural language process and Recommendation system
-- 💞️ Currently looking for an Internship programm for a period of 6 month starting from Oct 2021
-- 📫 How to reach me ? Mail id: pkny018@gmail.com
+- 👀 I’m interested in Artificical Intelligence Technologies
+- 💞️ Currently looking for an Internship programm for a period of 6 month starting from Sep,Oct 2021
 
+<br>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=anantgupta129&show_icons=true&include_all_commits=true&theme=ayu-mirage" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantgupta129&layout=compact&theme=ayu-mirage" />
+</div>
+
+<br>
+<br>
 <!---
 Pramod-Kumar808/Pramod-Kumar808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
