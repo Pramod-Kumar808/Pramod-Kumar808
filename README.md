@@ -3,8 +3,11 @@
 </p>
 
 <h2>Hi forks, nice to e-meet you! Welcome to my code station <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-# 👋 Hi, I’m Pramod-Kumar
-- 👀 I’m interested in Artificical Intelligence Technologies
+
+
+👋 Hi, I’m Pramod-Kumar, I am frol India
+👀 My major in Artificial Intelligence systems at [EPITA](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3AEpita.png&psig=AOvVaw36IrfqFFlOZejqkE-ZdLl_&ust=1639002039445000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCOjQssbc0vQCFQAAAAAdAAAAABAE) 
+
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Pramod-Kumar808)
 
