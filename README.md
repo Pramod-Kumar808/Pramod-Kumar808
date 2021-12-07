@@ -6,10 +6,8 @@
 
 
 👋 Hi, I’m Pramod-Kumar, I am frol India
-👀 My major in Artificial Intelligence systems at [EPITA](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3AEpita.png&psig=AOvVaw36IrfqFFlOZejqkE-ZdLl_&ust=1639002039445000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCOjQssbc0vQCFQAAAAAdAAAAABAE) 
+👀 My major in Artificial Intelligence systems in [EPITA PARIS](https://www.epita.fr/) 
 
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=Pramod-Kumar808)
 
 #### Data Science and Artificial Intelligence : <br />
 ![np](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
@@ -29,6 +27,8 @@
 📫 How to reach me: ... <br />
 [![linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-kumar-nagaraj-9ba636145/)&nbsp;
 [![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramodkumar.nagaraj@gmail.com)&nbsp;
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Pramod-Kumar808)
 
 <!---
 Pramod-Kumar808/Pramod-Kumar808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
