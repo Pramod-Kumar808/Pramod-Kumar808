@@ -1,6 +1,12 @@
+<p align="center">
+  <img width="75%" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
+<h2>Hi forks, nice to e-meet you! Welcome to my code station <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 # 👋 Hi, I’m Pramod-Kumar
 - 👀 I’m interested in Artificical Intelligence Technologies
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=Pramod-Kumar808)
 
 #### Data Science and Artificial Intelligence : <br />
 ![np](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
