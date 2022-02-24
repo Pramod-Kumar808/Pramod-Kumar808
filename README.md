@@ -7,7 +7,7 @@
 
 👋 Hi, I’m Pramod-Kumar, I am from India
 📘 Master student in Paris
-👀 Major in Artificial Intelligence systems at [EPITA PARIS](https://www.epita.fr/) 
+👀 Major in Artificial Intelligence systems at [EPITA PARIS](https://www.epita.fr/) Currently working as
 💻 Information Technology developer (AI) at [Dietsmann Smart Lab](https://www.dietsmann.com/)
 
 
