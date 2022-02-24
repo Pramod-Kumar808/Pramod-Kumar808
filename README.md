@@ -5,8 +5,10 @@
 <h2>Hi forks, nice to e-meet you! Welcome to my code station <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
-👋 Hi, I’m Pramod-Kumar, I am frol India
-👀 My major in Artificial Intelligence systems in [EPITA PARIS](https://www.epita.fr/) 
+👋 Hi, I’m Pramod-Kumar, I am from India
+📘 Master student in Paris
+👀 Major in Artificial Intelligence systems at [EPITA PARIS](https://www.epita.fr/) 
+💻 Information Technology developer (AI) at [Dietsmann Smart Lab](https://www.dietsmann.com/)
 
 
 #### Data Science and Artificial Intelligence : <br />
