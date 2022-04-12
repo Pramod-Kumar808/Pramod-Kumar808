@@ -2,13 +2,13 @@
   <img width="75%" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pramod-Kumar808&theme=onedark&title=Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/Pramod-Kumar808"><img alt="Pramod Kumar Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pramod-Kumar808&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pramod-Kumar808&theme=onedark&title=Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>Hi forks, nice to e-meet you! Welcome to my code station <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
