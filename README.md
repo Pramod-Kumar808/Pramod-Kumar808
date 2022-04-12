@@ -10,7 +10,7 @@
     <a href="https://github.com/Pramod-Kumar808"><img alt="Pramod Kumar Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pramod-Kumar808&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-<a href="https://github.com/ViAsmit"><img alt="Asmit Vimal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ViAsmit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Pramod-Kumar808"><img alt="Pramod Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ViAsmit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
