@@ -4,6 +4,23 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pramod-Kumar808&theme=onedark&title=Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/ViAsmit"><img alt="Asmit Vimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pramod-Kumar808&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ViAsmit"><img alt="Asmit Vimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramod-Kumar808&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/ViAsmit"><img alt="Asmit Vimal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ViAsmit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 <h2>Hi forks, nice to e-meet you! Welcome to my code station <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
