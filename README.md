@@ -10,11 +10,6 @@
     <a href="https://github.com/Pramod-Kumar808"><img alt="Pramod Kumar Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pramod-Kumar808&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-<a href="https://github.com/Pramod-Kumar808"><img alt="Pramod Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ViAsmit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 <h2>Hi forks, nice to e-meet you! Welcome to my code station <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
