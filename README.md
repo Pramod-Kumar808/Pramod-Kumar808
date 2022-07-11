@@ -2,7 +2,7 @@
   <img width="75%" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-<h2>Hi forks, nice to e-meet you! Welcome to my code station
+<h2>Hi forks, nice to e-meet you! Welcome to my code station</h2>
 ###
 
 👋 Hi, I’m Pramod-Kumar, I am from India
