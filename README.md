@@ -2,15 +2,6 @@
   <img width="75%" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-<h2>Hi forks, nice to e-meet you! Welcome to my code station</h2>
-
-👋 Hi, I’m Pramod-Kumar, I am from India
-📘 Master student in Paris
-👀 Major in Artificial Intelligence systems at [EPITA PARIS](https://www.epita.fr/) Currently worked as an
-💻 Information Technology developer (AI) Intern at [Dietsmann Smart Lab](https://www.dietsmann.com/)
-and currently working as an Software Engineer at [Taurob](https://taurob.com/)
-
-
 #### Data Science and Artificial Intelligence : <br />
 ![np](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![sci](https://img.shields.io/badge/Scipy-%23150458.svg?style=for-the-badge&logo=scipy&logoColor=white)&nbsp;
